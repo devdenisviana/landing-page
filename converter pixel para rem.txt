@@ -1,0 +1,12 @@
+Dica para definir padding ao inves de pixel, usar REM
+
+procure sites que façam a conversão 
+
+https://nekocalc.com/px-to-rem-converter
+
+site para simbolos
+https://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html
+
+site hostinger para hospedagem gratis
+
+https://www.hostinger.com.br/hospedagem-gratis
