@@ -145,6 +145,14 @@ button {
     background: #A45A49;
 }
 
+.bloco_receitas1 {
+    display: flex;
+}
+
+.bloco_receitas2 {
+    display: flex;
+}
+
 .receitas{
     display: flex;
     flex-direction: column;
@@ -269,3 +277,4 @@ footer{
     font-weight: 500;
     color: rgba(255, 242, 231, 0.50);
 }
+
