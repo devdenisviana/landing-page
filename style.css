@@ -183,7 +183,7 @@ button {
     
 }
 
-.receitas-card {
+.receitas-card{
     background: #241A1C;
     padding: 2rem;
     border-radius: 0.5rem;
@@ -196,13 +196,13 @@ button {
     
 }
 
-.receitas-card-cabecalho{
+.receitas-card-cabecalho {
     display: flex;
     justify-content: space-between;
     align-items: end;
 }
 
-.receitas-card-cabecalho-detalhes{
+.receitas-card-cabecalho-detalhes {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -215,14 +215,14 @@ button {
     color: #FFF2E7;
 }
 
-.receita-avaliacao{
+.receita-avaliacao {
     font-family: Inter;
     font-size: 1rem;
     font-weight: 500;
     color: #756A67;
 }
 
-.receita-descricao{
+.receita-descricao {
     font-family: Inter;
     font-size: 1rem;
     font-weight: 400;
@@ -247,7 +247,6 @@ button {
     font-weight: 600;
     color: #C7BAB3;
 }
-
 
 footer{
     padding: 4rem;
